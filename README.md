@@ -4,12 +4,12 @@ A demo Unity game wheer I am implementing a number of programming patterns in.
 
 So far the patterns used in this project include:
 
-Singleton
-Mediator
+Singleton,
+Mediator,
 Observer
 
-Planning to implent : 
+Planning to implement : 
 
-Abstract Factory
-Composite
+Abstract Factory,
+Composite,
 Command
